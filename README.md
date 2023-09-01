@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Java, Python, Shell and QA** 
 - 📫 How to reach me: **carlos_ojr@live.com | https://www.linkedin.com/in/carlos-goncalves-jr**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Used to hate Java in University
+- ⚡ Fun fact: Used to hate Java in University, now It is my strongest language Hahaha
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
